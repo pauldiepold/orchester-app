@@ -9,6 +9,6 @@ declare global {
 	}
 }
 
-import 'main';
+import 'main.css';
 
 export {};
