@@ -9,6 +9,4 @@ declare global {
 	}
 }
 
-import 'main';
-
 export {};
