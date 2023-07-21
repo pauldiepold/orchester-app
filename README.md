@@ -36,3 +36,16 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## VS-Code Extensions:
+
+Diese Extensions sollten installiert werden:
+
+- ardenivanov.svelte-intellisense
+- bradlc.vscode-tailwindcss
+- dbaeumer.vscode-eslint
+- eamodio.gitlens
+- esbenp.prettier-vscode
+- fivethree.vscode-svelte-snippets
+- shd101wyy.markdown-preview-enhanced
+- svelte.svelte-vscode

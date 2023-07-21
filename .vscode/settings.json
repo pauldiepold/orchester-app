@@ -1,0 +1,38 @@
+{
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[markdown]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"explorer.sortOrder": "filesFirst",
+	"extensions.ignoreRecommendations": true,
+	"files.associations": {
+		"*.css": "tailwindcss"
+	},
+	"files.autoSave": "onFocusChange",
+	"git.autofetch": true,
+	"markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.sendKeybindingsToShell": true,
+	"workbench.editor.labelFormat": "short",
+	"workbench.tree.indent": 12
+}
