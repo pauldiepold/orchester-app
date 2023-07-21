@@ -30,6 +30,7 @@
 	},
 	"files.autoSave": "onFocusChange",
 	"git.autofetch": true,
+	"git.enableSmartCommit": true,
 	"markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
 	"terminal.integrated.sendKeybindingsToShell": true,
